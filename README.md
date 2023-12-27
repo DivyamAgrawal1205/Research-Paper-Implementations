@@ -3,4 +3,4 @@
 2. WideResnet and ConvNext implementation (PyTorch)
 3. Cats vs Dog CNN implementation(TensorFlow)
 4. Transformer and LLM Review
-5. Custom Transformr Encoder layer Implemtation
+5. Custom Transformer Encoder layer Implementation(PyTorch)
